@@ -1,0 +1,8 @@
+prefix=/home/hai/WorkSpace/ws_Dummy/catkin_ws/devel
+
+Name: dummy_moveit_config
+Description: Description of dummy_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

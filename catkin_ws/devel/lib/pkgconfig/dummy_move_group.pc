@@ -1,0 +1,8 @@
+prefix=/home/hai/WorkSpace/ws_Dummy/catkin_ws/devel
+
+Name: dummy_move_group
+Description: Description of dummy_move_group
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
