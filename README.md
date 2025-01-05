@@ -16,15 +16,15 @@
 
   - ws_Dummy文件夹
 
-    ![image-20250105195045586](README.assets\image-20250105195045586.png)
+    ![image-20250105195045586](README.assets/image-20250105195045586.png)
 
   - backup文件夹
 
-    ![image-20250105195344705](README.assets\image-20250105195344705.png)
+    ![image-20250105195344705](README.assets/image-20250105195344705.png)
 
   - catkin_ws/src文件夹
 
-    ![image-20250105195638995](README.assets\image-20250105195638995.png)
+    ![image-20250105195638995](README.assets/image-20250105195638995.png)
 
 # gazebo仿真教程
 
